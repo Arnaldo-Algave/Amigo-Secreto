@@ -25,3 +25,9 @@ CSS3: Estilização e layout do aplicativo. (Presumindo que você terá um style
 
 JavaScript (ES6+): Lógica para adicionar/remover nomes, realizar o sorteio, armazenar resultados e gerenciar a revelação individual.
 
+<h2>👨‍💻 Autor<h2>
+### Arnaldo Oliveira Algave Junior
+
+
+
+
