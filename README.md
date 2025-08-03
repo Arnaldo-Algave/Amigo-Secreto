@@ -12,7 +12,8 @@
 -Cada pessoa tira um nome único.
 -Revelação Individual: Após o sorteio, cada participante digita seu próprio nome para descobrir apenas quem ele tirou, mantendo o mistério para os demais.
 -Flexibilidade de Nomes: Lida com variações de maiúsculas/minúsculas e espaços extras ao adicionar e ao revelar nomes, garantindo que o seu nome seja sempre reconhecido.
-# 🚀 Como Usar?
+<h2>🚀 Como Usar?</h2>
 ### Assista ao video a baixo e veja o passo a passo de como usar o app
-[![Assista ao vídeo](https://img.youtube.com/vi/2Ta_li8o5h0/mqdefault.jpg)](https://www.youtube.com/watch?v=2Ta_li8o5h0)
+[![Clique aqui para Assistr o vídeo]
+(https://img.youtube.com/vi/2Ta_li8o5h0/mqdefault.jpg)](https://www.youtube.com/watch?v=2Ta_li8o5h0)
 
