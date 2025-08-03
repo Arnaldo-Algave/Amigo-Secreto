@@ -17,4 +17,11 @@
 
 [![Assista ao vídeo](https://img.youtube.com/vi/2Ta_li8o5h0/hqdefault.jpg)](https://www.youtube.com/watch?v=2Ta_li8o5h0)
 
+<h2>🛠️ Tecnologias Utilizadas</h2>
+
+HTML5: Estrutura básica da página web.
+
+CSS3: Estilização e layout do aplicativo. (Presumindo que você terá um style.css para a parte visual)
+
+JavaScript (ES6+): Lógica para adicionar/remover nomes, realizar o sorteio, armazenar resultados e gerenciar a revelação individual.
 
