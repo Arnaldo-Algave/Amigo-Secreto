@@ -17,6 +17,9 @@
 
 [![Assista ao vídeo](https://img.youtube.com/vi/2Ta_li8o5h0/hqdefault.jpg)](https://www.youtube.com/watch?v=2Ta_li8o5h0)
 
+<h2>Chegou a sua vez de testar o Jogo do Amigo Secreto</h2>
+Clique no link ao lado e teste você mesmo: https://arnaldo-algave.github.io/Amigo-Secreto/
+
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
 HTML5: Estrutura básica da página web.
